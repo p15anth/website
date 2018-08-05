@@ -14,7 +14,7 @@ h1{
 body{
 	font-family:'Times New Roman', 'Times', sans-serif;
 	background-color:#ffcccc   ;
-	background-image: url('cancer2.png');
+	background-image: url('cancer2.PNG');
 	background-repeat: no-repeat;
 	background-size: cover;
 
@@ -81,16 +81,6 @@ body{
     }
 	
 	
-/*#cont{
-	height:70vh;
-	background-image: url('doctor1.jpg');
-	background-size: cover;
-	background-position: 0px -50px;
-	background-repeat: no-repeat;
-	border-bottom-left-radius: 10px;
-	border-bottom-right-radius: 20px;
-	box-shadow: 0px 0px 15px 8px #967F7E;
-}*/
 
 input:focus,select:focus {
     outline-width: 0;
